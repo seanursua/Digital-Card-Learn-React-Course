@@ -1,7 +1,7 @@
 # Digital-Card-Learn-React-Course
 ## First solo practice project on Learn React course on Scrimba
 
-###### On this project, I learned more about the following:
+###### In this project, I learned more about the following:
 
 👉 **JSX<br>**
 👉 **ReactDOM<br>**
