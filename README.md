@@ -5,9 +5,9 @@
 
 👉 **JSX<br>**
 👉 **ReactDOM<br>**
+👉 **Running React locally with Vite<br>**
 👉 **Custom Components<br>**
 👉 **Parent/Child Components<br>**
-👉 **Running React locally with Vite<br>**
 👉 **Organize Components<br>**
 👉 **Deploying a project<br>**
 
