@@ -11,4 +11,4 @@
 👉 **Organize Components<br>**
 👉 **Deploying a project<br>**
 
-You can view the project [here:](https://seanursua-digitalcard.netlify.app/)
+You can view the project [here](https://seanursua-digitalcard.netlify.app/)
