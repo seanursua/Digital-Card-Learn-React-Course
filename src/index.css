@@ -1,0 +1,162 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin: 0 auto;
+  display: flex;
+  min-height: 100vh;
+  max-width: 317px;
+  box-sizing: border-box;
+  background-color: #23252c;
+  align-items: center;
+  justify-content: center;
+}
+
+.App {
+  background-color: #1a1b21;
+}
+
+/* Info */
+
+.info {
+  display: block;
+  margin: 0;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background: -webkit-linear-gradient(top, #23252c 10%, #1a1b21 90%);
+}
+
+.user-icon {
+  width: 317px;
+  border-radius: 15px 15px 0 0;
+}
+
+.info--details {
+  line-height: 0.5em;
+  padding-block: 10px;
+}
+
+.info--details h2 {
+  color: #ffffff;
+  font-size: 25px;
+}
+
+.info--details p {
+  color: #f3bf99;
+  font-size: 13px;
+}
+
+.info--buttons {
+  display: flex;
+  /* padding: 0 30px; */
+  justify-content: center;
+  align-items: center;
+}
+
+.info--buttons a {
+  text-decoration: none;
+}
+
+.info--buttons .email,
+.info--buttons .linkedin {
+  margin: 0 8px;
+  width: 115px;
+  height: 34px;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  border-radius: 6px;
+}
+
+.info--buttons .email {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  color: #000000;
+  stroke: #d1d5db;
+  stroke-width: 1px;
+}
+
+.info--buttons .email img {
+  width: 17px;
+  margin-right: 0.5em;
+}
+
+.info--buttons .linkedin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #5093e2;
+  color: #ffffff;
+}
+
+.info--buttons .linkedin img {
+  width: 16px;
+  margin-right: 0.5em;
+}
+
+/* About */
+
+.about {
+  padding: 0 36px;
+  max-width: 317px;
+  padding-block: 15px 0;
+}
+
+.about--title {
+  font-size: 16px;
+  margin-bottom: -0.4em;
+  color: #f5f5f5;
+}
+
+.about--text {
+  font-size: 10.24px;
+  line-height: 150%;
+  color: #dcdcdc;
+}
+
+/* Interests */
+
+.interests {
+  padding: 0 36px;
+  max-width: 317px;
+  padding-block: 0 15px;
+}
+
+.interests--title {
+  font-size: 16px;
+  margin-bottom: -0.4em;
+  color: #f5f5f5;
+}
+
+.interests--text {
+  font-size: 10.24px;
+  line-height: 150%;
+  color: #dcdcdc;
+}
+
+.footer-bg {
+  background-color: #23252c;
+}
+
+.footer {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  background-color: #161619;
+  padding-block: 20px;
+  border-radius: 0 0 20px 20px;
+}
+
+.footer img {
+  width: 25px;
+  display: flex;
+  margin: 0 13px;
+  cursor: pointer;
+}
