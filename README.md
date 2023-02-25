@@ -3,12 +3,12 @@
 
 ###### On this project, I learned more about the following:
 
-👉 **JSX**
-👉 **ReactDOM**
-👉 **Custom Components**
-👉 **Parent/Child Components**
-👉 **Running React locally with Vite**
-👉 **Organize Components**
-👉 **Deploying a project**
+👉 **JSX<br>**
+👉 **ReactDOM<br>**
+👉 **Custom Components<br>**
+👉 **Parent/Child Components<br>**
+👉 **Running React locally with Vite<br>**
+👉 **Organize Components<br>**
+👉 **Deploying a project<br>**
 
 You can view the project [here:](https://seanursua-digitalcard.netlify.app/)
